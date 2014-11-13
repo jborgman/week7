@@ -25,3 +25,6 @@ Answer these questions in your pull request:
 1. What is the effect of the pulse width on the experiment? Try settings like 0.1, 1.0, and 10 msec. Report your observations in your documentation.
 2. What is the effect of the acquisition rate? Try settings like 1000, 10000 and 100000 points per sec. Also note what the minimum buffer size and scan rate is needed to describe the response up to 2000 Hz.
 3. Try the effect of signal averaging on the appearance of the power spectrum. For this experiment, reduce the gain of the audio amplifier until the signal is barely detectable.
+
+
++5 bonus points are awarded if you have user controlled pulse width and duty cycle in the front panel.
